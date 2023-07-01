@@ -9,7 +9,7 @@ Following api takes text as an input and displays the count of word.
 
 ## [Implementation](https://github.com/af4092/Word-Count/blob/main/src/CountOccuranceOfWords.java)
 
-- The `CountOccuranceOfWords` class is defined in the org.example package.
+- The `CountOccuranceOfWords` class is defined in the `org.example package`.
 - The main method is the entry point of the program.
 - A Scanner object named input is created to read input from the user.
 - The user is prompted to enter a text.
